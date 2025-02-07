@@ -31,7 +31,7 @@ The dataset used in this project is from **Kaggle**. It provides comprehensive d
 ---
 
 ### 📢 Follow me for more data analysis projects! 🚀  
-🔗 [GitHub](https://github.com/yourusername) | 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)  
+🔗 [GitHub](https://github.com/Rufyda) | 💼 [LinkedIn](https://www.linkedin.com/in/rufyda-rahma-96b656179/)  
 
 📌 **#PowerBI #DataAnalysis #Netflix #DataScience**
 ---
