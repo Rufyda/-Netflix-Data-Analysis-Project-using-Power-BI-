@@ -20,8 +20,8 @@ The dataset used in this project is from **Kaggle**. It provides comprehensive d
 ---
 
 ## 📂 Available Files  
-📁 **Netflix-Analysis.pbix** - The main **Power BI** file  
-📁 **Data/** - The files used for the analysis  
+📁 **Netflix.pbix** - The main **Power BI** file  
+📁 **Archive/** - The files used for the analysis  
 
 ## 🚀 How to Use  
 1. Download the **Power BI** (`.pbix`) file from the repository.  
